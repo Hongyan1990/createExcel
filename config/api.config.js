@@ -1,7 +1,7 @@
 module.exports = {
-	'APP_ID': '17171814',
-	'API_KEY': 'yNoSmZG8CDf1MaPt2rAGgEP2',
-	'SECRET_KEY': 'RWxch45SWNZurlqWnyPlQA08gb3q6p8H',
+	'APP_ID': '',
+	'API_KEY': '',
+	'SECRET_KEY': '',
 	'FILENAME': 'test1.xlsx',
 	'HEADER': [
 		{
